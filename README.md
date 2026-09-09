@@ -67,23 +67,3 @@ Márcio Araújo | [Matrícula] | @usuario5 | Desenvolvedor / Equipe Técnica
 * **Won't Have (Fora do escopo desta entrega):** Notificações e alertas automáticos por mensagem aos contribuintes (adiados para focar no modelo de IA e integração dos dados da prefeitura).
 
 ---
-
-## 6. Comprovação de Contribuições no Git
-
-*(Adicione as capturas de tela dentro da pasta `docs/prints_git/` do repositório)*
-
-1. **Painel de Contribuidores:** `![Contributors](docs/prints_git/contributors.png)`
-2. **Histórico de Commits:** `![Commits](docs/prints_git/commits.png)`
-
----
-
-## 7. Documentação Complementar e Modelagem UML (Bônus +10%)
-
-A documentação visual desenvolvida na oficina da disciplina está anexada na pasta `docs/uml/`:
-* **Diagrama 1 - Casos de Uso:** Mapeamento de interações (Procurador, Analista, Cidadão, Secretário e API).
-* **Diagrama 2 - Diagrama de Classes:** Estruturas de entidade e controle do sistema de Dívida Ativa.
-* **Diagrama 3 - Diagrama de Sequência:** Processo de filtro, consulta de renda e concessão de IPTU Social.
-  1. Agrupar pagantes de forma anônima por faixa de renda/similaridade.<br>2. Calcular porcentagem e variação da taxa de pagamento de cada grupo.
-  
-**RF10**: Modelo Preditivo de Recuperação o modelo de IA deve estimar a chance de pagamento das dívidas ativas para ordenar a prioridade de cobrança. 
-  1. Atingir no mínimo 95% de precisão na classificação dos devedores.
